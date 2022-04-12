@@ -7,10 +7,22 @@
       "id": 1
     },
     {
-      "text": "clean house",
-      "day": "17:00",
+      "text": "new task",
+      "day": "23.04.2022",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "efa",
+      "day": "aef",
       "reminder": true,
-      "id": 2
+      "id": 4
+    },
+    {
+      "text": "fvfs",
+      "day": "23.09.2022",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
