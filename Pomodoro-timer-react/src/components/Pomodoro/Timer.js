@@ -15,8 +15,8 @@ class Timer extends Component {
     }
     // init times for work, short|long break
     this.times = {
-      defaultTime: 1500, // 25 min
-      shortBreak: 300, // 5 min
+      defaultTime: 5, // 25 min
+      shortBreak: 6, // 5 min
       longBreak: 900, // 15 min
     }
   }

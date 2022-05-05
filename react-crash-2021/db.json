@@ -24,5 +24,13 @@
       "reminder": true,
       "id": 5
     }
+  ],
+  "news": [
+    {
+      "title": "zxcvbnm, title",
+      "description": "sdfghjkl; desc",
+      "date": "12.02.2022 date",
+      "id": 3
+    }
   ]
 }
