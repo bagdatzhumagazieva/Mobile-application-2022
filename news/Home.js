@@ -9,17 +9,30 @@ export default function Home() {
                 onPress={() =>
                     this.props.navigation.navigate('main')
                 }
+                style={styles.btn}
             />
-            <StatusBar style="auto" />
+            <Button
+                title="news"
+                onPress={() =>
+                    this.props.navigation.navigate('news')
+                }
+                style={styles.btn}
+            />
+            {/*<StatusBar style="auto" />*/}
         </View>
     );
 }
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1,
+        width: '100%',
+        // flex: 1,
+        display: 'flex',
         backgroundColor: '#fff',
-        alignItems: 'center',
-        justifyContent: 'center',
+        // alignItems: 'center',
+        // justifyContent: 'center',
     },
+    btn: {
+        marginTop: 24
+    }
 });

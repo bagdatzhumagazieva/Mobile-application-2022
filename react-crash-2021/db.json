@@ -27,10 +27,16 @@
   ],
   "news": [
     {
-      "title": "zxcvbnm, title",
+      "title": "zxcvbnm, title 123",
       "description": "sdfghjkl; desc",
       "date": "12.02.2022 date",
       "id": 3
+    },
+    {
+      "title": "цумц",
+      "description": "мсвц",
+      "date": "м",
+      "id": 4
     }
   ]
 }
